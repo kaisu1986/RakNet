@@ -30,3 +30,6 @@ Release/
 .DS_Store
 .Trashes
 Backup/
+*.pdb
+*.dll
+Lib/
